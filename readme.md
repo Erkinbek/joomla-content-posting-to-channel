@@ -6,6 +6,8 @@ After install plugin go to plugin's folder and change
 
 ```bash
   $this->link = "your site address";
-  $token = 'Your bot's token;
-  $channel = 'Channel link';
+  $token = "Your bot's token";
+  $channel = "Channel link";
 ```
+
+Telegram bot for posting data from this plugin https://github.com/Erkinbek/posting-articles-to-channel
