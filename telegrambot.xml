@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content" method="upgrade">
+	<name>Content link poster to telegram channel</name>
+	<author>Erkin Pardayev</author>
+	<creationDate>June 2017</creationDate>
+	<copyright>Copyright</copyright>
+	<license>GNU General Public License version 3 or later;</license>
+	<authorEmail>erkin.pardayev@gmail.com</authorEmail>
+	<authorUrl>http://pardayev.uz</authorUrl>
+	<version>1.0.0</version>
+	<description>Plugin for posting articles to telegram channel. To post articles setup bot. Author Erkin Pardayev http://pardayev.uz erkin.pardayev@gmail.com</description>
+	<files>
+		<filename plugin="telegrambot">telegrambot.php</filename>
+	</files>
+</extension>
