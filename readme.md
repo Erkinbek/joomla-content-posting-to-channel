@@ -2,7 +2,7 @@
 
 ## Settings
 
-After install plugin go to plugin's folder and change
+After install plugin go to plugin's folder ([root]/plugins/content/telegrambot) and change from telegrambot.php
 
 ```bash
   $this->link = "your site address";
