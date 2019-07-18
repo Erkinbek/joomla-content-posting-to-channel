@@ -9,5 +9,3 @@ After install plugin go to plugin's folder ([root]/plugins/content/telegrambot) 
   $token = "Your bot's token";
   $channel = "Channel link";
 ```
-
-Telegram bot for posting data from this plugin https://github.com/Erkinbek/posting-articles-to-channel
